@@ -4,8 +4,8 @@
   <p align="center">
 <a href="#"><img title="Bo5co" src="https://img.shields.io/badge/Bo5co -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-  <p align="center">
-<a href="https://github.com/WAHID-BOT"><img title="Author" src="https://img.shields.io/badge /Author-wahid-tkz/Bo5co?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<p align="center">
+<a href="https://github.com/WAHID-BOT"><img title="Author" src="https://img.shields.io/badge/Author-Wahid-Tkz/Bo5co?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -20,12 +20,12 @@ Project created by <a href="https://github.com/WAHID-BOT">wahid-tkz</a> to make 
 
   <p align="center">
   <a href="httsp://github.com/WAHID-BOT/Bo5co">
-    <img src="https://img.shields.io/github/repo-size/wahid-tkz/Bo5co?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/WAHID-BOT/Bo5co?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/WAHID-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/WAHID-BOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/WAHID-BOT/Bo5co/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WAHID-BOT/Bo5co?color=blue&style=flat-square"></a>
 <a href="https://github.com/WAHID-BOT/Bo5co/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WAHID-BOT/Bo5co?color=blue&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/Bo5co/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WAHID-/Bo5co?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/WAHID-BOT/Bo5co/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WAHID-BOT/Bo5co?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -37,7 +37,7 @@ Click WA logo to Join Support Group 👇👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DBDqAuz2CBYBcV03Wz0c3C)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=Bo5co&theme=nightowl)](https://github.com/WAHID-BOT/Bo5co)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAHID-BOT&repo=Bo5co&theme=nightowl)](https://github.com/WAHID-BOT/Bo5co)
   </div>
     
 ## Setup
